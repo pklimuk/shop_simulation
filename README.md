@@ -1,2 +1,2 @@
-# Program symuluje działanie sklepu
-## Szczegółowa dokumentacja znajduje się w pliku `Dokumentacja.pdf`
+#  Console application simulating the operation of a grocery store
+## Detailed documentation in polish is available in the file `Dokumentacja.pdf`
