@@ -2,4 +2,4 @@
 
 ## Authors: Pavel Klimuk, Lena Zubik
 
-## Detailed documentation in polish is available in the file `Dokumentacja.pdf`
+### Detailed documentation in polish is available in the file `Dokumentacja.pdf`
